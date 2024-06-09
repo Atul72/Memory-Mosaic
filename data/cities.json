@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Jhansi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-01T11:29:11.465Z",
+      "notes": "Such a boring city. Never going again after my graduation finish .",
+      "position": {
+        "lat": "25.45394418643912",
+        "lng": "78.5906982421875"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Muhammadabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-02-29T08:08:45.917Z",
+      "notes": "My village is located near this place under 20km.\n",
+      "position": {
+        "lat": "25.621391892224224",
+        "lng": "83.76525878906251"
+      },
+      "id": 73930389
+    }
+  ]
+}
