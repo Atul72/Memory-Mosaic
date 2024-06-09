@@ -1,4 +1,4 @@
-![SideBar jsx - 11-worldwise - Visual Studio Code 09-06-2024 13_37_06](https://github.com/Atul72/Memory-Mosaic/assets/103880470/ef530af5-2ad5-4299-a54f-1653b18ba557)# Memory Mosaic
+# Memory Mosaic
 - App features to add the position on map we travel recently.
 - We can also add notes or memories of place we travel.
 
